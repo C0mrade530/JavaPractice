@@ -1,2 +1,2 @@
-# JawaPractice
+# JavaPractice
 Practice task Java
